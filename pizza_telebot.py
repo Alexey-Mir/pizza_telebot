@@ -1,7 +1,7 @@
 import telebot
 import time
 
-bot_token = "5958984310:AAHys8YPS9hSAKPmYNei_EgkCO2_LT3tPVs"
+bot_token = "ENTER_YOUR_BOT_TOKEN"
 bot = telebot.TeleBot(bot_token)
 
 # Handle the '/start' command
